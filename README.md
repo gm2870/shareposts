@@ -1,1 +1,1 @@
-# shareposts
+# shareposts app using MVC
